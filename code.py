@@ -1,7 +1,7 @@
-# '''
-# Convert .py to .exe file format
-# Author: Akash Kumar Singh
-# '''
+'''
+Convert .py to .exe file format
+Author: Akash Kumar Singh
+'''
 #without flags
 pyinstaller clock.py #replace with your file name.
 
