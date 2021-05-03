@@ -5,5 +5,5 @@ Author: Akash Kumar Singh
 # without flags
 pyinstaller clock.py #replace with your file name.
 
-with flags
+# with flags
 Pyinstaller -w -f -i "give icon path here" clock.py #replace with your file name.
