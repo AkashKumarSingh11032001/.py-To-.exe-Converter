@@ -2,7 +2,7 @@
 Convert .py to .exe file format
 Author: Akash Kumar Singh
 '''
-without flags
+# without flags
 pyinstaller clock.py #replace with your file name.
 
 #with flags
